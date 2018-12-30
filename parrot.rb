@@ -1,3 +1,3 @@
-def parrot (phrase = "Pretty Bird!")
-  puts  expect (phrase).to eq ("Pretty bird!")
+def parrot (phrase = "Squawk!")
+  puts  "Pretty bird!"
 end
