@@ -1,3 +1,3 @@
 def parrot (phrase = "Squawk!")
-  puts  "#{phrase}"
+  puts  expect (phrase).to eq ("Pretty bird!")
 end
